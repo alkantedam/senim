@@ -1,0 +1,14 @@
+certifi==2017.7.27.1
+chardet==3.0.4
+ffmpy==0.2.2
+future==0.16.0
+idna==2.6
+prompt-toolkit==1.0.15
+pydub==0.20.0
+python-telegram-bot==8.0
+requests==2.18.4
+simplejson==3.11.1
+six==1.11.0
+urllib3==1.22
+wcwidth==0.1.7
+wit==4.3.0
